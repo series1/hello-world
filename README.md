@@ -1,2 +1,6 @@
 # hello-world
-test repo
+
+## A first repo
+
+This prints 'Hello World!'
+
