@@ -9,4 +9,4 @@ tag: [first]
 
 ##Content To Follow
 
-This is a test.
+This is a test post.
